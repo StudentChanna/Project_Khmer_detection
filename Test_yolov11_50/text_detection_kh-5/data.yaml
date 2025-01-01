@@ -1,0 +1,5 @@
+names:
+  0: Yolov11kh
+train: ../train/images
+val: ../valid/images
+test: ../test/images
