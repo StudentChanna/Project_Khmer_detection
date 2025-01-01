@@ -10,3 +10,4 @@ Project_Khmer_detection focuses on training a YOLOv11 model for detecting Khmer 
 
 **Getting Started**  
 Clone the repository and follow the setup instructions to reproduce the training process or adapt it for your custom dataset.
+- Change part in yaml file
